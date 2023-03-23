@@ -22,4 +22,6 @@
     alt="html5" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" align="center"/>
     
 
-</div>
+</div><br/>
+
+Atualmente estudo Desenvolvimento Web FullStack na Labenu com experiÊncia prática em diversos projetos individuais e em grupo.
