@@ -24,4 +24,4 @@
 
 </div><br/>
 
-Atualmente estudo Desenvolvimento Web FullStack na Labenu com experiÊncia prática em diversos projetos individuais e em grupo.
+Atualmente estudo Desenvolvimento Web FullStack na Labenu com experiência prática em diversos projetos individuais e em grupo.
