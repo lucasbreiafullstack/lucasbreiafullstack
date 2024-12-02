@@ -18,37 +18,36 @@
 ## 🛠️ Habilidades
 
 ### **Frontend**
-- React, Next.js, JavaScript (ES6+), TypeScript, HTML5, CSS3, TailwindCSS, Sass, Styled-Components.
+![React.js](https://img.shields.io/badge/-React.js-0D1117?style=for-the-badge&logo=react&labelColor=0D1117)&nbsp;
+![Next.js](https://img.shields.io/badge/-Next.js-0D1117?style=for-the-badge&logo=next.js&labelColor=0D1117)&nbsp;
+![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117)&nbsp;
+![TypeScript](https://img.shields.io/badge/-TypeScript-0D1117?style=for-the-badge&logo=typescript&labelColor=0D1117)&nbsp;
+![HTML5](https://img.shields.io/badge/-HTML5-0D1117?style=for-the-badge&logo=html5&logoColor=E34F26&labelColor=0D1117)&nbsp;
+![CSS3](https://img.shields.io/badge/-CSS3-0D1117?style=for-the-badge&logo=css3&logoColor=1572B6&labelColor=0D1117)&nbsp;
+![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-0D1117?style=for-the-badge&logo=tailwind-css&labelColor=0D1117)&nbsp;
+![Sass](https://img.shields.io/badge/-Sass-0D1117?style=for-the-badge&logo=sass&labelColor=0D1117)&nbsp;
+![Styled-Components](https://img.shields.io/badge/-Styled%20Components-0D1117?style=for-the-badge&logo=styled-components&labelColor=0D1117)&nbsp;
 
 ### **Backend**
-- Node.js, PostgreSQL, Knex, RESTful APIs, GraphQL, NestJs.
+![Node.js](https://img.shields.io/badge/-Node.js-0D1117?style=for-the-badge&logo=node.js&labelColor=0D1117)&nbsp;
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-0D1117?style=for-the-badge&logo=postgresql&labelColor=0D1117)&nbsp;
+![Knex.js](https://img.shields.io/badge/-Knex.js-0D1117?style=for-the-badge&logo=node.js&labelColor=0D1117)&nbsp;
+![RESTful APIs](https://img.shields.io/badge/-RESTful%20APIs-0D1117?style=for-the-badge&logo=api&labelColor=0D1117)&nbsp;
+![GraphQL](https://img.shields.io/badge/-GraphQL-0D1117?style=for-the-badge&logo=graphql&labelColor=0D1117)&nbsp;
+![NestJs](https://img.shields.io/badge/-NestJs-0D1117?style=for-the-badge&logo=nestjs&labelColor=0D1117)&nbsp;
 
 ### **DevOps/Outras**
-- Docker, AWS (S3, EC2), Git, GitHub Actions.
+![Docker](https://img.shields.io/badge/-Docker-0D1117?style=for-the-badge&logo=docker&labelColor=0D1117)&nbsp;
+![AWS](https://img.shields.io/badge/-AWS-0D1117?style=for-the-badge&logo=amazon-aws&labelColor=0D1117)&nbsp;
+![Git](https://img.shields.io/badge/-Git-0D1117?style=for-the-badge&logo=git&labelColor=0D1117)&nbsp;
+![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-0D1117?style=for-the-badge&logo=github-actions&labelColor=0D1117)&nbsp;
 
 ### **Design e UX**
-- Figma, Adobe XD, Sketch, Testes de Usabilidade, Prototipação interativa.
-
----
-
-## 🏗️ Projetos Relevantes
-
-### **1. Plataforma de Gestão de Projetos**
-- 🛠️ **Tecnologias:** React.js, TypeScript, Node.js, PostgreSQL
-- 🌟 **Descrição:** Aplicação SaaS que permite gerenciamento de equipes e tarefas em tempo real.
-- 🚀 **Impacto:** Reduziu o tempo médio de entrega de projetos em 30% para empresas clientes.
-- 🔗 [Repositório](#)
-
-### **2. Dashboard Financeiro Interativo**
-- 🛠️ **Tecnologias:** Next.js, TailwindCSS, D3.js
-- 🌟 **Descrição:** Dashboard com visualizações de dados avançadas para análise financeira.
-- 🚀 **Impacto:** Usado por mais de 1.000 usuários ativos diariamente.
-- 🔗 [Repositório](#)
-
-### **3. Sistema de Autenticação Seguro**
-- 🛠️ **Tecnologias:** Node.js, JWT, MongoDB
-- 🌟 **Descrição:** Sistema completo de autenticação e autorização para múltiplas plataformas.
-- 🚀 **Impacto:** Melhorou a segurança e desempenho de aplicações críticas.
+![Figma](https://img.shields.io/badge/-Figma-0D1117?style=for-the-badge&logo=figma&labelColor=0D1117)&nbsp;
+![Adobe XD](https://img.shields.io/badge/-Adobe%20XD-0D1117?style=for-the-badge&logo=adobe-xd&labelColor=0D1117)&nbsp;
+![Sketch](https://img.shields.io/badge/-Sketch-0D1117?style=for-the-badge&logo=sketch&labelColor=0D1117)&nbsp;
+![Usability Testing](https://img.shields.io/badge/-Testes%20de%20Usabilidade-0D1117?style=for-the-badge&logo=ux&labelColor=0D1117)&nbsp;
+![Interactive Prototyping](https://img.shields.io/badge/-Prototipação%20Interativa-0D1117?style=for-the-badge&logo=prototyping&labelColor=0D1117)&nbsp;
 
 ---
 
