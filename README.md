@@ -1,40 +1,33 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0F6DB6&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=0F6DB6&size=35&center=true&vCenter=true&width=1000&lines=Bem-vindo+ao+meu+perfil!;Desenvolvedor+Front-end+Sênior;Criando+Soluções+Web+Escaláveis;Especialista+em+React.js+e+Arquitetura+Web)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=0F6DB6&size=35&center=true&vCenter=true&width=1000&lines=Bem-vindo+ao+meu+perfil!;Desenvolvedor+Front-end+e+FullStack;Criando+Soluções+Web+Escaláveis;Especialista+em+React.js+e+Arquitetura+Web)](https://git.io/typing-svg)
 
 ---
 
 ## 🌟 Sobre Mim
 
-👋 **Olá, eu sou Lucas Breia**, um Desenvolvedor Front-end Sênior com sólida experiência em criação e manutenção de **aplicações web modernas, escaláveis e performáticas**.  
+👋 **Olá, eu sou Lucas Breia**, um Desenvolvedor Front-end e FullStack com sólida experiência em criação e manutenção de **aplicações web modernas, escaláveis e performáticas**.  
 
 - 💼 **Mais de 5 anos de experiência** na área de desenvolvimento de software.
-- 🏆 **Expertise:** Desenvolvimento de **interfaces de alta performance** usando **React.js, TypeScript e ferramentas modernas**.
+- 🏆 **Expertise:** Desenvolvimento de **interfaces de alta performance** usando **React.js, Next.js e TypeScript**.
 - 🚀 **Foco atual:** Construir aplicações complexas com arquitetura limpa e escalável, utilizando as melhores práticas do mercado.
 - 📊 **Experiência com equipes globais**: Contribuição para projetos em ambientes ágeis (Scrum/Kanban), promovendo colaboração e excelência técnica.
 
 ---
 
-## 🚀 Habilidades Técnicas
+## 🛠️ Habilidades
 
-### **Front-end**
-![React.js](https://img.shields.io/badge/-React.js-0D1117?style=for-the-badge&logo=react&labelColor=0D1117)&nbsp;
-![TypeScript](https://img.shields.io/badge/-TypeScript-0D1117?style=for-the-badge&logo=typescript&labelColor=0D1117)&nbsp;
-![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117)&nbsp;
-![Next.js](https://img.shields.io/badge/-Next.js-0D1117?style=for-the-badge&logo=next.js&labelColor=0D1117)&nbsp;
-![CSS](https://img.shields.io/badge/-CSS-0D1117?style=for-the-badge&logo=CSS3&labelColor=0D1117)&nbsp;
-![Sass](https://img.shields.io/badge/-Sass-0D1117?style=for-the-badge&logo=sass&labelColor=0D1117)&nbsp;
+### **Frontend**
+- React, Next.js, JavaScript (ES6+), TypeScript, HTML5, CSS3, TailwindCSS, Sass, Styled-Components.
 
-### **Back-end**
-![Node.js](https://img.shields.io/badge/-Node.js-0D1117?style=for-the-badge&logo=node.js&labelColor=0D1117)&nbsp;
-![Express](https://img.shields.io/badge/-Express-0D1117?style=for-the-badge&logo=express&labelColor=0D1117)&nbsp;
-![MySQL](https://img.shields.io/badge/-MySQL-0D1117?style=for-the-badge&logo=mysql&labelColor=0D1117)&nbsp;
+### **Backend**
+- Node.js, PostgreSQL, Knex, RESTful APIs, GraphQL, NestJs.
 
-### **Ferramentas e Práticas**
-![Git](https://img.shields.io/badge/-Git-0D1117?style=for-the-badge&logo=git&labelColor=0D1117)&nbsp;
-![Jest](https://img.shields.io/badge/-Jest-0D1117?style=for-the-badge&logo=jest&labelColor=0D1117)&nbsp;
-![Docker](https://img.shields.io/badge/-Docker-0D1117?style=for-the-badge&logo=docker&labelColor=0D1117)&nbsp;
-![Azure DevOps](https://img.shields.io/badge/-Azure_DevOps-0D1117?style=for-the-badge&logo=azure-devops&labelColor=0D1117)&nbsp;
+### **DevOps/Outras**
+- Docker, AWS (S3, EC2), Git, GitHub Actions.
+
+### **Design e UX**
+- Figma, Adobe XD, Sketch, Testes de Usabilidade, Prototipação interativa.
 
 ---
 
@@ -68,11 +61,18 @@
 
 ---
 
-## 🏆 Conquistas
+## 🧑‍💻 Gráfico de Atividades
 
-- 🌟 **Certificado em Desenvolvimento FullStack:** [Instituição/Curso](#)
-- 🚀 **Contribuições Open Source:** Projetos populares no GitHub, ajudando a comunidade.
-- 📚 **Workshops e Mentoria:** Facilitei sessões para desenvolvedores em início de carreira.
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=lucasbreiafullstack&bg_color=0D1117&color=6693db&line=73b8ed&point=9efdff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+---
+
+## 📊 Visitas ao Perfil
+
+<div align="center">
+  <p><b>Visitas ao perfil:</b></p>
+  <img align="center" src="https://profile-counter.glitch.me/{lucasbreiafullstack}/count.svg" />
+</div>
 
 ---
 
